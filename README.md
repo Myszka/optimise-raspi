@@ -1,5 +1,5 @@
 # optimise-raspi
-Set of scripts of libraries for Raspberry Pi + Navio2+ to operate spectral payload.
+Set of scripts and libraries for Raspberry Pi + Navio2+ to operate spectral payload.
 
 ###Set of sensors:
 
